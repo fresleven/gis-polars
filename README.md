@@ -1,4 +1,4 @@
-# gis-polars
+# polars-gis
 A practical performance comparison between Polars and Pandas using real-world NYC taxi trip data.
 
 ## Overview
